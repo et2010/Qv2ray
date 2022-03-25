@@ -1,30 +1,30 @@
 [submodule "3rdparty/SingleApplication"]
 	path = 3rdparty/SingleApplication
-	url = https://github.com.cnpmjs.org/itay-grudev/SingleApplication
+	url = https://hub.gitslow.tk/itay-grudev/SingleApplication
 [submodule "3rdparty/QNodeEditor"]
 	path = 3rdparty/QNodeEditor
-	url = https://github.com.cnpmjs.org/Qv2ray/QNodeEditor
+	url = https://hub.gitslow.tk/Qv2ray/QNodeEditor
 [submodule "3rdparty/puresource"]
 	path = 3rdparty/puresource
-	url = https://github.com.cnpmjs.org/Qv2ray/PureSource
+	url = https://hub.gitslow.tk/Qv2ray/PureSource
 [submodule "src/plugin-interface"]
 	path = src/plugin-interface
-	url = https://github.com.cnpmjs.org/Qv2ray/QvPlugin-Interface
+	url = https://hub.gitslow.tk/Qv2ray/QvPlugin-Interface
 [submodule "3rdparty/QJsonStruct"]
 	path = 3rdparty/QJsonStruct
-	url = https://github.com.cnpmjs.org/Qv2ray/QJsonStruct
+	url = https://hub.gitslow.tk/Qv2ray/QJsonStruct
 [submodule "3rdparty/libuv"]
     path = 3rdparty/libuv
-    url = https://github.com.cnpmjs.org/libuv/libuv.git
+    url = https://hub.gitslow.tk/libuv/libuv.git
 [submodule "3rdparty/uvw"]
 	path = 3rdparty/uvw
-	url = https://github.com.cnpmjs.org/skypjack/uvw.git
+	url = https://hub.gitslow.tk/skypjack/uvw.git
 [submodule "cmake/android"]
 	path = cmake/android
-	url = https://github.com.cnpmjs.org/LaurentGomila/qt-android-cmake
+	url = https://hub.gitslow.tk/LaurentGomila/qt-android-cmake
 [submodule "3rdparty/QCodeEditor"]
 	path = 3rdparty/QCodeEditor
-	url = https://github.com.cnpmjs.org/cpeditor/QCodeEditor
+	url = https://hub.gitslow.tk/cpeditor/QCodeEditor
 [submodule "3rdparty/qt-qrcode"]
 	path = 3rdparty/qt-qrcode
-	url = https://github.com.cnpmjs.org/danielsanfr/qt-qrcode
+	url = https://hub.gitslow.tk/danielsanfr/qt-qrcode
